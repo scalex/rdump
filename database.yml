@@ -1,0 +1,6 @@
+production:
+  sessions:
+    default:
+      database: rdump
+      hosts:
+        - localhost:1976

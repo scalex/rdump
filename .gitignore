@@ -1,0 +1,6 @@
+/db/rdump_development
+/db/rdump_test
+vendor/bundle
+.bundle
+*.sublime-project
+*.sublime-workspace
